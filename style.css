@@ -14,6 +14,7 @@ header {
     justify-content: right;
     padding: 4px;
     align-items: center;
+    background-color: #c5b2ff;
 }
 
 .box { 
@@ -189,5 +190,32 @@ button {
     a:nth-child(3) {
         margin-left: 20px;
     } 
+
+    .tall {
+        display: flex;
+        background-color: #c5b2ff;
+
+    }
+
+    .short{}
+
+    .long li {
+        display: inline-block;
+        margin-right: auto;
+    }
+
+    .long .small {
+        font-size: 10px;
+        font-weight: 900;
+    }
+
+    .long li {
+        display: inline-block;
+        margin-right: auto;
+        padding: 10px;
+        padding-left: 510px;
+    }
+
+    
 
     
