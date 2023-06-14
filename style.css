@@ -116,7 +116,7 @@ button {
 
     .boxform .left .overlay span a:last-child {
         background: #ffb2fa
-        margin-left: ;
+        margin-left: 10px;
     }
 
     .boxform .right {
@@ -188,6 +188,6 @@ button {
 
     a:nth-child(3) {
         margin-left: 20px;
-    }
+    } 
 
     
